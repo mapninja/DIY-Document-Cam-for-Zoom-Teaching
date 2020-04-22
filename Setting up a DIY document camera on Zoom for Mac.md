@@ -37,6 +37,9 @@ https://teachanywhere.stanford.edu/zoom-course-support
 
 4. **Plug** the **USB camera** into your **Mac**
 
+![](./media/IMG_3549.png)  
+![](./media/IMG_3552.png)  
+
 ## Step 2: Software Setup
 
 ### Quicktime Player
@@ -45,12 +48,16 @@ https://teachanywhere.stanford.edu/zoom-course-support
 3. You should now see whatever your **USB Camera** is pointed at. **Adjust the aim and height**, as needed, until you are happy with the results.
 4. **It is not necessary to start recording for this to work!**
 
+![](./media/quicktime.png)
+
 ### Zoom
 
 1. **Start your Zoom** Meeting
 2. At the bottom of your Zoom Window, **click on the Share Screen** button
 3. **Select** the **Quicktime Player - Movie Recording** Icon (which should preview your USB Webcam view), and click **Share**.
 4. Your viewers will now see the **Quicktime Window, only**. This is handy so you don't have to worry about clearing desktop icons, etc... for your ScreenShare.
+
+![](./media/sharescreen.png)
 
 Have Fun!
 
