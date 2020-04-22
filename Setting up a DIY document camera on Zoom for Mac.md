@@ -2,29 +2,31 @@
 
 My wife is an elementary school art teacher, and she needed a way to present a short activity for her students, through Zoom. I helped her with this setup, and her colleagues thought it was useful, so I've written it up for them. If you find it useful, that's great, too. 
 
-With just a few items you probably already have, you can rig up a document cam, for shooting overhead activities (reading a children's book, cooking a recipe, painting a watercolor)This is for Mac, that's what I use. I think you can probably do the same thing on Windows, though Quicktime is not supported on new Windows operating systems, there is probably some other software you can use. 
+With just a few items you probably already have, you can rig up a document cam, for shooting overhead activities (reading a children's book, cooking a recipe, painting a watercolor, etc...). 
+
+This is for Mac, that's what I use. I think you can probably do the same thing on Windows, though Quicktime is not supported on new Windows operating systems, there is probably some other software you can use. 
 
 ## Hardware:  
 
 Macbook - Should work on any Mac able to run Zoom
 
-Preferred: A USB Webcam - This is the easiest, since you don't have to worry about the iOS camera changing orientation, and there will be much less app in the way (record buttons, settings, etc... that are on the screen when you use your iPhone camera). Ours is an old Logitech that we've had, forever. [Here is an example](https://smile.amazon.com/dp/B0823DXX8W/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0823DXX8W&pd_rd_w=20uKB&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=tD0AE&pf_rd_r=A81H4MYJ9PTCF44M4C5H&pd_rd_r=067d2811-735c-4855-8f56-c8af179d7c05&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWEY4UDNBTlJPRkkmZW5jcnlwdGVkSWQ9QTA0NDYzNjgxMFRMOFFTVVNTWkQ1JmVuY3J5cHRlZEFkSWQ9QTA5OTQyMDg5RUYzMFpDWFhJQVkmd2lkZ2V0TmFtZT1zcF9kZXRhaWwmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl), anything HD and USB, should probably work:
+Preferred: **A USB Webcam** - This is the easiest, since you don't have to worry about the iOS camera changing orientation, and there will be much less app in the way (record buttons, settings, etc... that are on the screen when you use your iPhone camera). Ours is an old Logitech that we've had, forever. [Here is an example](https://smile.amazon.com/dp/B0823DXX8W/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0823DXX8W&pd_rd_w=20uKB&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=tD0AE&pf_rd_r=A81H4MYJ9PTCF44M4C5H&pd_rd_r=067d2811-735c-4855-8f56-c8af179d7c05&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWEY4UDNBTlJPRkkmZW5jcnlwdGVkSWQ9QTA0NDYzNjgxMFRMOFFTVVNTWkQ1JmVuY3J5cHRlZEFkSWQ9QTA5OTQyMDg5RUYzMFpDWFhJQVkmd2lkZ2V0TmFtZT1zcF9kZXRhaWwmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl), anything HD and USB, should probably work.
 
 
 
-Runner-up: iPhone or iPad and a Lightning USB cable to connect your iPhone or iPad to your Macbook.
+Runner-up: iPhone or iPad and a Lightning USB cable to connect your iPhone or iPad to your Macbook. When your camera is turned on on your phone, you can use the same steps, below. Be sure to disable time-out, so your screen doesn't go black 10 minutes in. You might also have to play with auto-orientation settings until things work the way you want.
 
 ## Software:
 
 **Zoom Meeting software** - Ask your admin to make sure you can host meetings and advise you on secure settings for Zoom Meetings and Webinars for teaching.  
 
-Suggested Meeting settings (set when you schedule the meeting):  
+**Suggested Meeting settings** (set when you schedule the meeting):  
 
 * Mute participants upon entry  
 * Decide whether you want to enable a waiting room
 * Only authenticated users can join
 
-Stanford university has an excellent set of guidelines for securing Zoom meeting and webinars for teaching:
+Stanford University has an excellent set of guidelines for securing Zoom meeting and webinars for teaching:
 https://teachanywhere.stanford.edu/zoom-course-support
 
 ## Step 1: Hardware Setup
